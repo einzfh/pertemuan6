@@ -1,0 +1,15 @@
+export const products = [
+  { id: '1', name: 'Kaos Oversize Hitam', category: 'Pakaian', price: 129000, rating: 4.8, image: '👕' },
+  { id: '2', name: 'Hoodie Casual Premium', category: 'Pakaian', price: 279000, rating: 4.9, image: '🧥' },
+  { id: '3', name: 'Sneakers Sport White', category: 'Sepatu', price: 359000, rating: 4.7, image: '👟' },
+  { id: '4', name: 'Sepatu Formal Kulit', category: 'Sepatu', price: 450000, rating: 4.6, image: '👞' },
+  { id: '5', name: 'Topi Baseball NY', category: 'Aksesoris', price: 75000, rating: 4.5, image: '🧢' },
+  { id: '6', name: 'Kacamata Fashion Hitam', category: 'Aksesoris', price: 199000, rating: 4.4, image: '🕶️' },
+  { id: '7', name: 'Celana Cargo Cargo', category: 'Pakaian', price: 189000, rating: 4.3, image: '👖' },
+  { id: '8', name: 'Jaket Bomber Vintage', category: 'Pakaian', price: 329000, rating: 4.8, image: '🧥' },
+  { id: '9', name: 'Boots Kulit Hitam', category: 'Sepatu', price: 499000, rating: 4.9, image: '🥾' },
+  { id: '10', name: 'Tas Canvas Selempang', category: 'Aksesoris', price: 149000, rating: 4.2, image: '👜' },
+  { id: '11', name: 'Jam Tangan Minimalis', category: 'Aksesoris', price: 250000, rating: 4.7, image: '⌚' },
+  { id: '12', name: 'Rok Mini Floral', category: 'Pakaian', price: 159000, rating: 4.5, image: '👗' },
+  { id: '13', name: 'Sepatu High Heels', category: 'Sepatu', price: 299000, rating: 4.6, image: '👠' },
+];
