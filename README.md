@@ -27,7 +27,7 @@
 [screenshot HP fisik di sini]
 
 ## Cara Menjalankan
-1. Clone repo  : git clone [url-repo-kamu]
+1. Clone repo  : git clone [https://github.com/einzfh/pertemuan6/tree/main]
 2. Install deps: npm install
 3. Jalankan    : npx expo start
 4. Scan QR Code dengan Expo Go di HP
