@@ -31,3 +31,6 @@
 2. Install deps: npm install
 3. Jalankan    : npx expo start
 4. Scan QR Code dengan Expo Go di HP
+
+## Link Expo Snack
+[https://snack.expo.dev/@einz/shoplist]
